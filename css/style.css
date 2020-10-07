@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    background: #272727 url(../assets/images/back.jpg);
+}
+
+#editor {
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    background-color: rgb(253, 253, 253, 0.8);
+    min-height: 100vw;
+    width: 80vw;
+    border: solid 0px;
+    border-radius: 20px;
+    text-align: left;
+    padding: 20px;
+    box-shadow: 6px 6px 9px 0px rgba(201, 36, 36, 0.7);
+}
+
+.title-editor {
+    color: rgb(253, 253, 253);
+}
